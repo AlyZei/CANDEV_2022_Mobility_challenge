@@ -1,0 +1,18 @@
+## Ignore jupyter crap
+.ipynb_checkpoints
+
+## Ignore venv and python crap
+**/__pycache__
+
+## Ignores data
+*.csv
+*.xlsx
+
+## Ignores results
+*.png
+Results/
+*.zip
+
+## Excpet photos for webpage
+!www/*.png
+!www/*/*.png
